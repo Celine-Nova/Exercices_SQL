@@ -30,3 +30,15 @@ INSERT INTO telephones(name, manufacturer, price, units_sold) VALUES(
 -- Ecrire une requête pour liste tous les modèles de téléphones
     SELECT name FROM telephones;
     ![Résultat requête modèles de téléphonnes]
+
+-- Ecrire une requête pour lister tous les telephone(name, manufacturer) de tous les téléphone dont le prix est supérieur à 200€
+    SELECT `name`, `manufacturer` FROM `telephones` WHERE price > 200;
+
+-- Ecrire une requête pour lister tous les telephones(name, manufacturer) de tous les téléphones dont le prix est varie entre 150 et 200€
+    SELECT `name`, `manufacturer` FROM `telephones` WHERE price BETWEEN 150 AND 200;
+
+-- Lister tous les téléphones de marque samsung et Apple
+    SELECT * FROM `telephones` WHERE manufacturer IN ('Samsung','Apple');
+
+-- Afficher le revenu total pour les téléphones vendues.Pour chaque téléphone, vous avez le prix et la quantité vendu
+    SELECT price, units_sold, SUM(price) AS total_price FROM telephones GROUP BY name;
