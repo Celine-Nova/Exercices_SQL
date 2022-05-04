@@ -23,7 +23,7 @@
 | 8 | Galaxy Note 20 | Samsung | 1100 | 10353 |
 
 ## LMD 2 : Selection(projection)
-   1. Ecrire une requête pour liste tous les modèles de téléphones
+   1. Ecrire une requête pour liste tous les modèles de téléphones ![Résultat requête modèles de téléphonnes](./img/modeles.jpg)
    2. Ecrire une requête pour lister tous les telephone(name, manufacturer) de tous les téléphone dont le prix est supérieur à 200€
    3. Ecrire une requête pour lister tous les telephone(name, manufacturer) de tous les téléphone dont le prix est varie entre 150 et 200€
    4. Lister tous les téléphones de marque samsung et Apple

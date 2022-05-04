@@ -15,6 +15,7 @@ CREATE DATABASE sales;
     price FLOAT NOT NULL,
     units_sold INTEGER NOT NULL
     );
+
 -- Insérer les données
 INSERT INTO telephones(name, manufacturer, price, units_sold) VALUES(
     "N1280", "Nokia", "199", "1925"),
@@ -25,3 +26,7 @@ INSERT INTO telephones(name, manufacturer, price, units_sold) VALUES(
     ("Droid", "Motorola", "150", "8395"),
     ("Iphone 13 Pro Max", "Apple", "1300", "12849"),
     ("Galaxy Note 20", "Samsung", "1100", "10353");
+
+-- Ecrire une requête pour liste tous les modèles de téléphones
+    SELECT name FROM telephones;
+    ![Résultat requête modèles de téléphonnes]
