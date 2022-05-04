@@ -24,12 +24,12 @@
 
 ## LMD 2 : Selection(projection)
    1. Ecrire une requête pour liste tous les modèles de téléphones
-   ![Résultat requête modèles de téléphonnes](./img/liste1.jpg)
+      ![Résultat requête modèles de téléphonnes](./img/liste1.jpg)
    2. Ecrire une requête pour lister tous les telephones(name, manufacturer) de tous les téléphones dont le prix est supérieur à 200€
-   ![Résultat requête de téléphonnes](./img/liste2.jpg)
+      ![Résultat requête de téléphonnes](./img/liste2.jpg)
    3. Ecrire une requête pour lister tous les telephones(name, manufacturer) de tous les téléphones dont le prix est varie entre 150 et 200€
-   ![Résultat requête de téléphonnes](./img/liste3.jpg)
+      ![Résultat requête de téléphonnes](./img/liste3.jpg)
    4. Lister tous les téléphones de marque samsung et Apple
-   ![Résultat requête de téléphonnes](./img/liste4.jpg)
+      ![Résultat requête de téléphonnes](./img/liste4.jpg)
    5. Afficher le revenu total pour les téléphones vendues.Pour chaque téléphone, vous avez le prix et la quantité vendu
-   ![Résultat requête prix total des téléphonnes](./img/liste5.jpg)
+      ![Résultat requête prix total des téléphonnes](./img/liste5.jpg)
