@@ -27,25 +27,25 @@
    9. **state**: number (0,1,2) (CANCELED, OPTION, CONFIRMED)
 
 ==============================================================================
-1. Ecrire une requête pour créer ces 2 tables en prenant en compte la jointure
-2. Remplissez la base de données au travers des insertions
-3. Afficher toutes les formations sollicités par le client M2i formation
+### 1. Ecrire une requête pour créer ces 2 tables en prenant en compte la jointure
+### 2. Remplissez la base de données au travers des insertions
+### 3. Afficher toutes les formations sollicités par le client M2i formation
 
 ![Résultat requête formation par client M2i](./img/requete1.JPG)
  
-4. Afficher les noms et contacts de tous les contacts des clients qui ont sollicité un coaching
+### 4. Afficher les noms et contacts de tous les contacts des clients qui ont sollicité un coaching
 
 ![Résultat requête contacts client en coaching](./img/requete2.JPG)
 
-5. Afficher les noms et contacts de tous les contacts des clients qui ont sollicité un coaching pour les accompagnements Nest.js
+### 5. Afficher les noms et contacts de tous les contacts des clients qui ont sollicité un coaching pour les accompagnements Nest.js
 
 ![Résultat requête contact client en coaching pour Nest](./img/requete3.JPG)
 
-6.  Pour chacune des demandes de formation, afficher le prix UHT et prix TTC en se basant sur le unité Price(TJM) et le nombre de jours de prestation tout en sachant que la TVA est de 20%.
+### 6.  Pour chacune des demandes de formation, afficher le prix UHT et prix TTC en se basant sur le unité Price(TJM) et le nombre de jours de prestation tout en sachant que la TVA est de 20%.
 
 ![Résultat requête tarifs HT et TTC des formations](./img/requete3.JPG)
 
-7. Lister toutes les prestations qui sont **_confirmés_** et qui vont rapporter plus **_30.000€_**
+### 7. Lister toutes les prestations qui sont **_confirmés_** et qui vont rapporter plus **_30.000€_**
 
 
 
