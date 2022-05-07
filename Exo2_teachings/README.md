@@ -43,11 +43,11 @@
 
 ### 6.  Pour chacune des demandes de formation, afficher le prix UHT et prix TTC en se basant sur le unité Price(TJM) et le nombre de jours de prestation tout en sachant que la TVA est de 20%.
 
-![Résultat requête tarifs HT et TTC des formations](./img/requete3.JPG)
+![Résultat requête tarifs HT et TTC des formations](./img/requete4.JPG)
 
 ### 7. Lister toutes les prestations qui sont **_confirmés_** et qui vont rapporter plus **_30.000€_**
 
-
+![Résultat requête tarifs HT et TTC des formations](./img/requete5.JPG)
 
 
 

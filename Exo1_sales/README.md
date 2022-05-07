@@ -38,6 +38,6 @@
    
    ![Résultat requête de téléphonnes](./img/liste4.jpg)
 
-   5. Afficher le revenu total pour les téléphones vendues.Pour chaque téléphone, vous avez le prix et la quantité vendu
+###    5. Afficher le revenu total pour les téléphones vendues.Pour chaque téléphone, vous avez le prix et la quantité vendu
     
-      ![Résultat requête prix total des téléphonnes](./img/liste5.jpg)
+   ![Résultat requête prix total des téléphonnes](./img/liste5.jpg)
