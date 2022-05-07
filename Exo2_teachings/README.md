@@ -31,23 +31,23 @@
 ### 2. Remplissez la base de données au travers des insertions
 ### 3. Afficher toutes les formations sollicités par le client M2i formation
 
-![Résultat requête formation par client M2i](./img/requete1.JPG)
+![Résultat requête formation par client M2i](./img/requete1.jpg)
  
 ### 4. Afficher les noms et contacts de tous les contacts des clients qui ont sollicité un coaching
 
-![Résultat requête contacts client en coaching](./img/requete2.JPG)
+![Résultat requête contacts client en coaching](./img/requete2.jpg)
 
 ### 5. Afficher les noms et contacts de tous les contacts des clients qui ont sollicité un coaching pour les accompagnements Nest.js
 
-![Résultat requête contact client en coaching pour Nest](./img/requete3.JPG)
+![Résultat requête contact client en coaching pour Nest](./img/requete3.jpg)
 
 ### 6.  Pour chacune des demandes de formation, afficher le prix UHT et prix TTC en se basant sur le unité Price(TJM) et le nombre de jours de prestation tout en sachant que la TVA est de 20%.
 
-![Résultat requête tarifs HT et TTC des formations](./img/requete4.JPG)
+![Résultat requête tarifs HT et TTC des formations](./img/requete4.jpg)
 
 ### 7. Lister toutes les prestations qui sont **_confirmés_** et qui vont rapporter plus **_30.000€_**
 
-![Résultat requête tarifs HT et TTC des formations](./img/requete5.JPG)
+![Résultat requête tarifs HT et TTC des formations](./img/requete5.jpgG)
 
 
 
