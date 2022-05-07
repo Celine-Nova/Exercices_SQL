@@ -47,7 +47,7 @@
 
 ### 7. Lister toutes les prestations qui sont **_confirmés_** et qui vont rapporter plus **_30.000€_**
 
-![Résultat requête tarifs HT et TTC des formations](./img/requete5.jpgG)
+![Résultat requête tarifs HT et TTC des formations](./img/requete5.jpg)
 
 
 
