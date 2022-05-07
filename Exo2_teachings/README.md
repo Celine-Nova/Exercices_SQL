@@ -31,7 +31,7 @@
 ### 2. Remplissez la base de données au travers des insertions
 ### 3. Afficher toutes les formations sollicités par le client M2i formation
 
-![Résultat requête formation par client M2i](./img/requete1.jpg)
+![Résultat requête formation par client M2i](./img/)
  
 ### 4. Afficher les noms et contacts de tous les contacts des clients qui ont sollicité un coaching
 
