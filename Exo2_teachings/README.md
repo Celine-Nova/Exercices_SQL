@@ -42,7 +42,7 @@
 
 ![Résultat requête contact client en coaching pour Nest](./img/requete3.jpg)
 
-### 6.  Pour chacune des demandes de formation, afficher le prix UHT et prix TTC en se basant sur le unité Price(TJM) et le nombre de jours de prestation tout en sachant que la TVA est de 20%.
+### 6. Pour chacune des demandes de formation, afficher le prix UHT et prix TTC en se basant sur le unité Price(TJM) et le nombre de jours de prestation tout en sachant que la TVA est de 20%.
 
 ![Résultat requête tarifs HT et TTC des formations](./img/requete4.jpg)
 
