@@ -1,6 +1,6 @@
 # INSTAGRAM
 
-Créer les requêtes ci-dessous SQL sur la BDD instagram.
+Ecrire les requêtes SQL ci-dessous SQL sur la BDD instagram.
 
 ## Modélisation de ma bdd
 
